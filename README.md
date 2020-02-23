@@ -1,7 +1,7 @@
 # go_meterpreter
 Golang实现的x86下的Meterpreter reverse tcp
 
-做静态免杀实验，通过代码修改自[EGESPLOIT](https://github.com/EgeBalci/EGESPLOIT) 这个开源项目。单独实现主要在于减小程序编译后体积。目前编译后的大小在1.2M左右。
+做静态免杀实验，代码修改自[EGESPLOIT](https://github.com/EgeBalci/EGESPLOIT) 这个开源项目。单独实现主要在于减小程序编译后体积。目前编译后的大小在1.2M左右。
 
 ## 使用方法
 
